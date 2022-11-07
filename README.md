@@ -2,44 +2,28 @@
 
 ## Introduction: 
 
-
-
-
 The name Superivsed Learning means that theres is a presence of a supervisor as a teacher. We as a teacher, teach the machine or train the machine with data that is well labelled. We provide the machine with a new set of data as examples for the supervised learning algorithm to analyze the training data and predict the outcomes. The labelled data has the correct outcome which the algorithm produces. 
-
-
 
 Supervised learning is classified into two categories of algorithms: 
 
-Classification: A classification problem is when the output variable is a category, such as “Red” or “blue” , “disease” or “no disease”.
-Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
+* Classification: A classification problem is when the output variable is a category, such as “Red” or “blue” , “disease” or “no disease”.
+* Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
 
-Supervised learning deals with or learns with “labeled” data. This implies that some data is already tagged with the correct answer.
+# Background: 
 
-Types:-
+Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. This data will be used to create machine learning models to classify the risk level of given loans.
+In this assignment, we will be building a machine learning model that attempts to predict whether a loan will be approved or not.
 
-Regression
-Logistic Regression
-Classification
-Naive Bayes Classifiers
-K-NN (k nearest neighbors)
-Decision Trees
-Support Vector Machine
+## Instructions:
 
-Instructions: 
+* We will create and compare two models on this data: a logistic regression, and a random forests classifier. 
+* Before we create, fit, and score the models, we need to make a prediction as to which model we think will perform better. 
+* Create a LogisticRegression model, fit it to the data, and print the model's score. 
+* Do the same for a RandomForestClassifier. 
 
-Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. This data will be used to
-You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
-
-In this assignment, you will be building a machine learning model that attempts to predict whether a loan will be approved or not.
-
-## Consider the models
-
-You will be creating and comparing two models on this data: a logistic regression, and a random forests classifier. Before you create, fit, and score the models, make a prediction as to which model you think will perform better. You do not need to be correct! Write down (in markdown cells in your Jupyter Notebook or in a separate document) your prediction, and provide justification for your educated guess.
-
-## Fit a LogisticRegression model and RandomForestClassifier model
-
-Create a LogisticRegression model, fit it to the data, and print the model's score. Do the same for a RandomForestClassifier. You may choose any starting hyperparameters you like. Which model performed better? How does that compare to your prediction? Write down your results and thoughts.
+### Questions:
+* Which model performed better? 
+* How does that compare to your prediction?
 
 # Analysis: 
 
