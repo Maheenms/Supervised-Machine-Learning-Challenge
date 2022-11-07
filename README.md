@@ -37,4 +37,9 @@ Create a LogisticRegression model, fit it to the data, and print the model's sco
 
 # Analysis: 
 
+My predictions were that Random Forest Model Classifier Model will yield better results. After fitting the models, splitting the data and printing the model scores. It can be concluded that both models performed well and yielded similar results. The model score for the Logistic Regression Model came out to be 0.9924680148576145 approximately 99% and the model score for the Random Forest Classifier model came out to be 0.9914878250103177 which is approximately 99%. Both models predicted values came out to be the same as their actual values. 
 
+
+# Reference: 
+
+* 
