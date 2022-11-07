@@ -1,7 +1,13 @@
 # Supervised-Machine-Learning-Challenge
 
-## Background: 
-Supervised learning, as the name indicates, has the presence of a supervisor as a teacher. Basically supervised learning is when we teach or train the machine using data that is well labelled. Which means some data is already tagged with the correct answer. After that, the machine is provided with a new set of examples(data) so that the supervised learning algorithm analyses the training data(set of training examples) and produces a correct outcome from labelled data.
+## Introduction: 
+
+
+
+
+The name Superivsed Learning means that theres is a presence of a supervisor as a teacher. We as a teacher, teach the machine or train the machine with data that is well labelled. We provide the machine with a new set of data as examples for the supervised learning algorithm to analyze the training data and predict the outcomes. The labelled data has the correct outcome which the algorithm produces. 
+
+
 
 Supervised learning is classified into two categories of algorithms: 
 
